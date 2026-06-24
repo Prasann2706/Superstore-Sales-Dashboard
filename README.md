@@ -12,7 +12,7 @@ make data-driven decisions through:
 - ✅ KPI tracking and monitoring
 - ✅ Interactive visualizations with filters
 - ✅ Sales trends across multiple dimensions
-- ✅ 15-day sales forecasting using time series analysis
+- ✅ sales forecasting using time series analysis
 
 ## 🔍 Key Components
 
@@ -20,7 +20,7 @@ make data-driven decisions through:
 |--------|-------------|
 | Dashboard Creation | Intuitive visuals with drill-down filtering |
 | Data Analysis | Insights on sales strategy effectiveness |
-| Sales Forecasting | 15-day forecast using historical data |
+| Sales Forecasting |  forecast using historical data |
 | Actionable Insights | Recommendations to drive growth & efficiency |
 
 ## 🛠️ Tools Used
@@ -30,7 +30,7 @@ make data-driven decisions through:
 ## 📈 Key Insights
 - Identified top-performing product categories
 - Tracked monthly revenue trends
-- Forecasted next 15 days of sales using time series
+- Forecasted next sales using time series
 
 ## 📷 Dashboard Preview
 <img width="1600" height="891" alt="forcasting dashboard" src="https://github.com/user-attachments/assets/03994cf4-b060-45ed-8895-54b5f9c26ee4" />
